@@ -39,6 +39,8 @@ def draw_keypoint(frame, keypoint, keypoint_scores, skeleton_style,
 
             cv2.circle(frame, (int(kp[0]), int(kp[1])), marker_size, cl, -1)
 
+    return frame
+
 
 def draw_bbox(frame, x, y, w, h, score=None, label=None,
               facecolor=(0, 255, 0), textcolor=(0, 0, 0), thickness=4,
