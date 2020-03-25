@@ -14,19 +14,17 @@ A package for visualizing results of object detection
 Usage
 -----
 
+Coming soon...
+
 Installation
 ------------
 
-Requirements
-^^^^^^^^^^^^
+.. code-block::
 
-Compatibility
--------------
+   pip install git+https://github.com/eqs/visdets.git
+
 
 Licence
 -------
 
-Authors
--------
-
-`visdets` was written by `eqs <murashige.satoshi.mi1 [at] is.naist.jp>`_.
+MIT
