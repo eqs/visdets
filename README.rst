@@ -14,7 +14,7 @@ A package for visualizing results of object detection
 Usage
 -----
 
-Coming soon...
+See `examples <https://nbviewer.jupyter.org/github/eqs/visdets/tree/master/examples>`_
 
 Installation
 ------------
